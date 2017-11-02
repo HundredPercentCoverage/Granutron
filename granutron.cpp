@@ -1,12 +1,10 @@
-//////////////////////////////////////////////////////////////////////////////////////
-// GRANUTRON by Matthew Laughlin (l1429201@qub.ac.uk)								//
+// GRANUTRON by ML
 //																					//
-// Multiple voice delay line granulator												//
+// Multiple voice delay line granulator for Pure Data using the Flext library
 //																					//
-// Influences - DLGranulator from AudioMulch (Ross Bencina)							//
-//			  - GRANULE opcode from Csound (Allan S.C. Lee)							//
-//			  - bufsyncgrain~ by Victor Lazzarini (ported to PD by Frank Barknecht) //
-//////////////////////////////////////////////////////////////////////////////////////
+// Influences - DLGranulator from AudioMulch (Ross Bencina)
+//	      - GRANULE opcode from Csound (Allan S.C. Lee)	
+//	      - bufsyncgrain~ by Victor Lazzarini (ported to PD by Frank Barknecht)
 
 #include <flext.h>
 #include <math.h>
