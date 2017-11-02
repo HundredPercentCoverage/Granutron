@@ -1,4 +1,4 @@
-// GRANUTRON by ML
+// GRANUTRON by ML - written in 2004 for a university project
 //																					//
 // Multiple voice delay line granulator for Pure Data using the Flext library
 //																					//
